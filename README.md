@@ -25,7 +25,7 @@ employee_list = ["Jasen_Kerluke", "Lazlo_Daniel", "Amparo_Schuster", "Tia_Kunde"
 
 
 ## Further requirement
---They would also like to organize these files in a intuitive way, and group them in folders according to the first letter of each person's surname.
+--They would also like to organize these files in a intuitive way, and group them in folders according to the first letter of each person's firstname.
 
 ### Task 3
 --Please create a folder for each letter and move the previously created files in the respective folder according to the person's surname. For example, "Jasen_Kerluke" should be moved to folder "J".
