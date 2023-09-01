@@ -1,6 +1,7 @@
 import os
 import shutil
-employee_list = ["Jasen_Kerluke", "Lazlo_Daniel", "Amparo_Schuster", "Tia_Kunde",  "Alana_Lueilwitz", "Tia_Mraz", "Lazlo_Metz", "Caroline_Pollich", "Aiyana_Weber", "Lazlo_Rolfson"]
+employee_list = ["Jasen_Kerluke", "Lazlo_Daniel", "Amparo_Schuster", "Tia_Kunde",  "Alana_Lueilwitz", 
+                 "Tia_Mraz", "Lazlo_Metz", "Caroline_Pollich", "Aiyana_Weber", "Lazlo_Rolfson"]
 
 #Task_1
 def txt_creator(employee_list):
